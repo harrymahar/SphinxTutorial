@@ -5,7 +5,7 @@ Hello my world!!!! -**First Heading**-
 Today we're gonna learn about Git, Sphinx, Gettext, etc -**Second Heading**-
 -------------------------------------------------------
 
-You gonna learn a lot from here! :) -**Third Heading**--
+You gonna learn a lot from here! :) -**Third Heading**-
 ........................................................
 
 This command is must be on ubuntu line. And if you want to bold, use this format **bold**.
