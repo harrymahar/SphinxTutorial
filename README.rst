@@ -26,3 +26,11 @@ For using a number list, use this format:
 
 #. Number one
 #. Number two
+
+If you want to create table, use this format:
+
++--------------------------+---------------------------+
+| **Gender/Jenis Kelamin** | **Nama**                  |
++--------------------------+---------------------------+
+| Laki-laki                | Adityo Dwijananto         |
++--------------------------+---------------------------+
