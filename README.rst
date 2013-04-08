@@ -34,3 +34,5 @@ If you want to create table, use this format:
 +--------------------------+---------------------------+
 | Laki-laki                | Adityo Dwijananto         |
 +--------------------------+---------------------------+
+
+if you want to have refrence on .rst format here's the hyperlink: http://docutils.sourceforge.net/docs/user/rst/quickref.html
