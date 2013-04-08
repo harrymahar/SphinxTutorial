@@ -24,6 +24,8 @@ For using a bullet list, use this format:
 
 * Bullet one
 * Bullet two
+ - Sub bullet 1
+ - Sub bullet 2
 
 For using a number list, use this format:
 
@@ -39,3 +41,4 @@ If you want to create table, use this format:
 +--------------------------+---------------------------+
 
 if you want to have refrence on .rst format here's the hyperlink: http://docutils.sourceforge.net/docs/user/rst/quickref.html
+
