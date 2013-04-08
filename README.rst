@@ -19,8 +19,8 @@ This is how you show a program listing or some preformated text::
 	 
 For using a bullet list, use this format:
 
-# Bullet one
-# Bullet two
+* Bullet one
+* Bullet two
 
 For using a number list, use this format:
 
