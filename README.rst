@@ -26,11 +26,17 @@ For using a bullet list, use this format:
 * Bullet two
  - Sub bullet 1
  - Sub bullet 2
+ 	- Sub sub bullet 1
+ 	- Sub Sub bullet 2
+
+ 
 
 For using a number list, use this format:
 
 #. Number one
 #. Number two
+#  Number three
+#  Number four
 
 If you want to create table, use this format:
 
